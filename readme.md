@@ -1,6 +1,6 @@
 **GoLang Developer Test**
 
-Welcome to the technical assessment for the Senior GoLang Developer role at Shaffra. This test is designed to evaluate your proficiency in GoLang, problem-solving skills, debugging capabilities, and your ability to design scalable systems. Please ensure that you follow all instructions carefully.
+Welcome to the technical assessment for the Senior GoLang Developer role. This test is designed to evaluate your proficiency in GoLang, problem-solving skills, debugging capabilities, and your ability to design scalable systems. Please ensure that you follow all instructions carefully.
 
 You will be tested on three core aspects:
 1. **GoLang Application Development**
